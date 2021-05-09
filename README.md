@@ -1,3 +1,4 @@
+# This is a fork which includes the current WIP webpack5 PR https://github.com/webpack-contrib/webpack-hot-middleware/pull/397
 # Webpack Hot Middleware
 
 Webpack hot reloading using only [webpack-dev-middleware](https://webpack.js.org/guides/development/#webpack-dev-middleware). This allows you to add hot reloading into an existing server without [webpack-dev-server](https://webpack.js.org/configuration/dev-server/).
