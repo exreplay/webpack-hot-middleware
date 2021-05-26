@@ -1,6 +1,6 @@
 {
   "name": "@averjs/webpack-hot-middleware",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Webpack hot reloading you can attach to your own server",
   "keywords": [
     "webpack",
